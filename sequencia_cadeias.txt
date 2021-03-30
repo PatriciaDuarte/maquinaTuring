@@ -1,0 +1,57 @@
+Discente: Patrícia D. da Silva
+
+Observação: cadeia Z significa zeros(0). 
+
+Sequência de configurações para a cadeia 1: [ZZZZ] (aceita)
+q1ZZZZ
+Uq2ZZZ
+UXq3ZZ
+UXZq4Z
+UXZXq3U
+UXZq5XU
+UXq5ZXU
+Uq5XZXU
+q5UXZXU
+Uq2XZXU
+UXq2XZU
+UXXq3XU
+UXXXq3U
+UXXq5XU
+UXq5XXU
+Uq5XXXU
+q5UXXXU
+Uq2XXXU
+UXq2XXU
+UXXq2XU
+UXXXq2U
+UXXXUqaceita
+
+
+Sequência de configurações para a cadeia 2: [Z] (aceita)
+q1Z
+Uq2
+UXU
+UXUqaceita
+
+
+Sequência de configurações para a cadeia 3: [ZZZ](rejeitada)
+q1ZZZ
+Uq2ZZ
+UXq3Z
+UXZq4
+UXXq4
+UXXUqrejeita
+
+
+Sequência de configurações para a cadeia 4: [ZZZZZZ](rejeitada)
+q1ZZZZZZ
+Uq2ZZZZZ
+UXq3ZZZZ
+UXZq4ZZZ
+UXZXq4ZZ
+UXZXXq4Z
+UXZXXXq4
+UXZXXXUqrejeita
+
+
+
